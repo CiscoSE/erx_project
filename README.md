@@ -28,6 +28,8 @@ Once the inital notications for volunteers are sent, the second flow waits for a
 
 ![](Documents/03_59_37.jpg)
 
+# Demo
+A demo of the ERX Project can be found here: https://youtu.be/ygYsnXnDjrA
 
 # Solution Components
 * Webex Teams
