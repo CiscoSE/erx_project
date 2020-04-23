@@ -9,6 +9,8 @@ When a stroke or cardiac arrest occurs, getting the right care fast is critical.
 
 Each year, an estimated 40,000 cardiac arrests occur in Canada. The vast majority happen in public places or at home, and few people survive. But survival rates double if someone performs CPR and uses an automated external defibrillator (AED).
 
+**Please note that that this project does not replace any primary emergency services such as 911 and paramedic services. It is only used as a supplemental service.**
+
 ## Contacts:
 * Samantha Yiu (sayiu@cisco.com)
 * Jason Chung-Tung (jchungtu@cisco.com)
